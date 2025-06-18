@@ -29,7 +29,7 @@ The project involved:<br>
 -Clean, business-ready layout for easy navigation and reporting<br>
 
 **Final Outcome**<br>
--Delivered a clean, fully interactive Excel dashboard that enables business users to:<br>
+Delivered a clean, fully interactive Excel dashboard that enables business users to:<br>
 -Monitor sales performance over time<br>
 -Compare sales across product types and countries<br>
 -Identify key customer segments<br>
